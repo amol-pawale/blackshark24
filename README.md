@@ -138,6 +138,9 @@ Short paragraph describing the project, the problem it solves, and the interesti
 </p>
 
 <br/>
+<div align="center">
+  <i>⭐ "Building secure, high-performance systems — one architecture decision at a time."</i>
+</div>
 
 <!-- ======================= GITHUB ANALYTICS ======================= -->
 
@@ -164,6 +167,3 @@ Short paragraph describing the project, the problem it solves, and the interesti
 
 <br/>
 
-<div align="center">
-  <i>⭐ "Building secure, high-performance systems — one architecture decision at a time."</i>
-</div>
