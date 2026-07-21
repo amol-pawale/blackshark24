@@ -50,6 +50,41 @@ A portfolio-grade backend showcasing enterprise architecture patterns end to end
 
 <br/>
 
+<!-- 🔧 PLACEHOLDER: duplicate this block for each additional project you want to feature.
+     Fill in: title, badges, one-line tagline, description, and bullet points. -->
+
+### 🧩 Project Name
+![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-4169E1?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
+**One-line tagline describing what it does**
+
+Short paragraph describing the project, the problem it solves, and the interesting technical bits.
+
+**🎯 Highlights:**
+- 🔹 &nbsp;Key feature or capability #1
+- 🔹 &nbsp;Key feature or capability #2
+- 🔹 &nbsp;Key feature or capability #3
+
+<br/>
+
+<!-- 🔧 PLACEHOLDER: another project slot -->
+
+### 🧩 Project Name
+![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-00A1E0?style=flat-square)
+![Status](https://img.shields.io/badge/Status-WIP-yellow?style=flat-square)
+
+**One-line tagline describing what it does**
+
+Short paragraph describing the project, the problem it solves, and the interesting technical bits.
+
+**🎯 Highlights:**
+- 🔹 &nbsp;Key feature or capability #1
+- 🔹 &nbsp;Key feature or capability #2
+- 🔹 &nbsp;Key feature or capability #3
+
+<br/>
+
 <!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack & Tools
@@ -103,9 +138,6 @@ A portfolio-grade backend showcasing enterprise architecture patterns end to end
 </p>
 
 <br/>
-<div align="center">
-  <i>⭐ "Building secure, high-performance systems — one architecture decision at a time."</i>
-</div>
 
 <!-- ======================= GITHUB ANALYTICS ======================= -->
 
@@ -117,7 +149,7 @@ A portfolio-grade backend showcasing enterprise architecture patterns end to end
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amol-pawale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&icon_color=512BD4&count_private=true" alt="Amol's GitHub Stats" />
 </a>
 <a href="https://github.com/amol-pawale">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amol-pawale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amol-pawale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&langs_count=8&hide=python" alt="Top Languages" />
 </a>
 
 <br/>
@@ -132,3 +164,6 @@ A portfolio-grade backend showcasing enterprise architecture patterns end to end
 
 <br/>
 
+<div align="center">
+  <i>⭐ "Building secure, high-performance systems — one architecture decision at a time."</i>
+</div>
