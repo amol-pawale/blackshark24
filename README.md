@@ -50,41 +50,6 @@ A portfolio-grade backend showcasing enterprise architecture patterns end to end
 
 <br/>
 
-<!-- 🔧 PLACEHOLDER: duplicate this block for each additional project you want to feature.
-     Fill in: title, badges, one-line tagline, description, and bullet points. -->
-
-### 🧩 Project Name
-![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-4169E1?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-
-**One-line tagline describing what it does**
-
-Short paragraph describing the project, the problem it solves, and the interesting technical bits.
-
-**🎯 Highlights:**
-- 🔹 &nbsp;Key feature or capability #1
-- 🔹 &nbsp;Key feature or capability #2
-- 🔹 &nbsp;Key feature or capability #3
-
-<br/>
-
-<!-- 🔧 PLACEHOLDER: another project slot -->
-
-### 🧩 Project Name
-![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-00A1E0?style=flat-square)
-![Status](https://img.shields.io/badge/Status-WIP-yellow?style=flat-square)
-
-**One-line tagline describing what it does**
-
-Short paragraph describing the project, the problem it solves, and the interesting technical bits.
-
-**🎯 Highlights:**
-- 🔹 &nbsp;Key feature or capability #1
-- 🔹 &nbsp;Key feature or capability #2
-- 🔹 &nbsp;Key feature or capability #3
-
-<br/>
-
 <!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack & Tools
