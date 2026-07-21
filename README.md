@@ -2,11 +2,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amol+Pawale;Senior+Software+Engineer;Backend+Architecture+%E2%9A%99%EF%B8%8F;Salesforce+Integrations+%E2%98%81%EF%B8%8F;Aspiring+Solutions+Architect+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=CC785C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amol+Pawale;Senior+Software+Engineer;Backend+Architecture+%E2%9A%99%EF%B8%8F;Salesforce+Integrations+%E2%98%81%EF%B8%8F;Aspiring+Solutions+Architect+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=amol-pawale&label=Profile%20views&color=512BD4&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amol-pawale&label=Profile%20views&color=CC785C&style=flat" alt="profile views" />
 </p>
 
 </div>
@@ -32,8 +32,8 @@ Over the last **18 months** I've expanded into the **Salesforce ecosystem** (Ape
 ## 🌟 Featured Projects
 
 ### 🛒 Commerce
-![Stack](https://img.shields.io/badge/Stack-.NET_10_·_Clean_Architecture-512BD4?style=flat-square)
-![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-.NET_10_·_Clean_Architecture-CC785C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Development-D4A27F?style=flat-square)
 
 **Production-grade e-commerce backend built on Clean Architecture**
 
@@ -54,8 +54,8 @@ A portfolio-grade backend showcasing enterprise architecture patterns end to end
      Fill in: title, badges, one-line tagline, description, and bullet points. -->
 
 ### 🧩 Project Name
-![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-4169E1?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-CC785C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-6A9B5D?style=flat-square)
 
 **One-line tagline describing what it does**
 
@@ -71,8 +71,8 @@ Short paragraph describing the project, the problem it solves, and the interesti
 <!-- 🔧 PLACEHOLDER: another project slot -->
 
 ### 🧩 Project Name
-![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-00A1E0?style=flat-square)
-![Status](https://img.shields.io/badge/Status-WIP-yellow?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-CC785C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-WIP-D4A27F?style=flat-square)
 
 **One-line tagline describing what it does**
 
@@ -150,22 +150,22 @@ Short paragraph describing the project, the problem it solves, and the interesti
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/amol-pawale">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amol-pawale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&icon_color=512BD4&count_private=true" alt="Amol's GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amol-pawale&show_icons=true&hide_border=true&bg_color=FAF9F5&title_color=CC785C&icon_color=CC785C&text_color=3D3D3A&count_private=true" alt="Amol's GitHub Stats" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/amol-pawale">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amol-pawale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&langs_count=8&hide=python" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amol-pawale&layout=compact&hide_border=true&bg_color=FAF9F5&title_color=CC785C&text_color=3D3D3A&langs_count=8&hide=python" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
 
 <!-- Row 2: Streak, centered -->
-<img src="https://streak-stats.demolab.com?user=amol-pawale&theme=react&hide_border=true&background=0D1117&ring=512BD4&fire=512BD4&currStreakLabel=512BD4" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=amol-pawale&hide_border=true&background=FAF9F5&ring=CC785C&fire=CC785C&currStreakLabel=CC785C&currStreakNum=3D3D3A&sideNums=3D3D3A&sideLabels=CC785C&dates=787672&stroke=CC785C&titleColor=CC785C" alt="GitHub Streak" />
 
 <!-- Row 3: Activity graph, full width -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amol-pawale&theme=react-dark&hide_border=true&bg_color=0D1117&color=512BD4&line=512BD4&point=ffffff" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amol-pawale&hide_border=true&bg_color=FAF9F5&color=3D3D3A&title_color=CC785C&line=CC785C&point=CC785C&area=true&area_color=CC785C" alt="Activity Graph" />
 
 </div>
 
