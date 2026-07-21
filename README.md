@@ -145,8 +145,12 @@ Short paragraph describing the project, the problem it solves, and the interesti
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amol-pawale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&icon_color=512BD4" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amol-pawale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/amol-pawale">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amol-pawale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&icon_color=512BD4&count_private=true" alt="Amol's GitHub Stats" />
+</a>
+<a href="https://github.com/amol-pawale">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amol-pawale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&langs_count=8" alt="Top Languages" />
+</a>
 
 <br/>
 
