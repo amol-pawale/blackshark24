@@ -145,20 +145,29 @@ Short paragraph describing the project, the problem it solves, and the interesti
 
 <div align="center">
 
-<a href="https://github.com/amol-pawale">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amol-pawale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&icon_color=512BD4&count_private=true" alt="Amol's GitHub Stats" />
-</a>
-<a href="https://github.com/amol-pawale">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amol-pawale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&langs_count=8&hide=python" alt="Top Languages" />
-</a>
+<!-- Row 1: Stats + Languages side by side, top-aligned in equal columns -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/amol-pawale">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amol-pawale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&icon_color=512BD4&count_private=true" alt="Amol's GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/amol-pawale">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amol-pawale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&langs_count=8&hide=python" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
+<!-- Row 2: Streak, centered -->
 <img src="https://streak-stats.demolab.com?user=amol-pawale&theme=react&hide_border=true&background=0D1117&ring=512BD4&fire=512BD4&currStreakLabel=512BD4" alt="GitHub Streak" />
 
-<br/>
+<!-- Row 3: Activity graph, full width -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amol-pawale&theme=react-dark&hide_border=true&bg_color=0D1117&color=512BD4&line=512BD4&point=ffffff" alt="Activity Graph" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amol-pawale&theme=react-dark&hide_border=true&bg_color=0D1117&color=512BD4&line=512BD4&point=ffffff" alt="Activity Graph" />
+</div>
 
 </div>
 
